@@ -6,8 +6,6 @@ Resource    ../Resources/PO/Landing.robot
 Resource    ../Resources/PO/Results.robot
 Resource    ../Resources/PO/TopNav.robot
 
-*** Variables ***
-
 *** Keywords ***
 Go to landing page
     Landing.Navigate to
